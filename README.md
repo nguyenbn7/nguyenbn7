@@ -1,9 +1,11 @@
-<img align="right" height="200" src="https://media1.tenor.com/m/1kf4J-xC_68AAAAd/cat.gif" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nguyenbn7/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nguyenbn7/count.svg?"  />
+  <img height="200" src="https://media1.tenor.com/m/1kf4J-xC_68AAAAd/cat.gif"  />
 </div>
 
 ###
