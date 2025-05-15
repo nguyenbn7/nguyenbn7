@@ -4,14 +4,12 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/1kf4J-xC_68AAAAd/cat.gif"  />
-</div>
+<img align="right" height="200" src="https://media.tenor.com/lQ7ow7M095wAAAAi/toothless-dancing.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-swart-eight.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31tn7devqfntbp5pss73to7ujtgi)
 </div>
 
 ###
