@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/nguyenbn7/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenbn7.visitor-badge-query&query_only=true&left_text=Hello%20Visitors"  />
 </div>
 
 ###
