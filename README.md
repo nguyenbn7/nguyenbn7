@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenbn7.visitor-badge-query&query_only=true&left_text=Hello%20Visitors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenbn7.nguyenbn7&query_only=true&left_text=Hello%20Visitors"  />
 </div>
 
 ###
