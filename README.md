@@ -25,8 +25,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-ochre-six-50.vercel.app/api/top-langs?username=nguyenbn7&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&hide=html,css" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats-ochre-six-50.vercel.app/api?username=nguyenbn7&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-ochre-six-50.vercel.app/api/top-langs?username=nguyenbn7&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&hide=html,css&custom_title=Did%20I%20use%20these%20languages%3F" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-ochre-six-50.vercel.app/api?username=nguyenbn7&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Work%20smarter%20not%20harder" height="200" alt="stats graph"  />
 </div>
 
 ###
